@@ -1,0 +1,7 @@
+{
+  "name": "TechFlow Support Voice",
+  "description": "A real-time voice-based technical support assistant powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
